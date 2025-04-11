@@ -6,7 +6,7 @@ A modern and animated landing page for the Keysystem hiring process. Built with 
 
 ## 🚀 Live Preview
 
-[👉 View Live Site](https://your-vercel-url.vercel.app) <!-- Replace with actual deployed link -->
+[👉 View Live Site](https://keysystem-landing.vercel.app/) <!-- Replace with actual deployed link -->
 
 ---
 
