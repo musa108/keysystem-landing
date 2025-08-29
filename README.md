@@ -23,7 +23,7 @@ A modern and animated landing page for the Keysystem hiring process. Built with 
 ## ✨ Features
 
 - Responsive and accessible UI
-- Hero section, About, Benefits, Careers/Jobs, and Footer
+- Header, Hero section, About, Benefits, Careers/Jobs, and Footer
 - Smooth **fade-in animations on scroll**
 - Fully styled with Tailwind CSS
 - Ready for deployment (Vercel recommended)
